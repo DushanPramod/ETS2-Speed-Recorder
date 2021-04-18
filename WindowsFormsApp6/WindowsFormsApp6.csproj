@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{215F4B78-6246-4D16-816C-6D0F08B4CE20}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp6</RootNamespace>
+    <AssemblyName>WindowsFormsApp6</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>256x256.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>..\..\..\..\Desktop\VS\Virtual_speditor\lib\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Config.cs" />
+    <Compile Include="Data\Ets2TelemetryData.cs" />
+    <Compile Include="Data\Ets2TelemetryDataReader.cs" />
+    <Compile Include="Data\IEts2TelemetryData.cs" />
+    <Compile Include="Data\Reader\Ets2TelemetryStructure.cs" />
+    <Compile Include="Data\Reader\SharedProcessMemory.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpDataClasses\MapDictionary.cs" />
+    <Compile Include="HelpDataClasses\TruckDetail.cs" />
+    <Compile Include="Helpers\SiiDecoder.cs" />
+    <Compile Include="Helpers\TruckBookProcessHelper.cs" />
+    <Compile Include="Helpers\Ets2ProcessHelper.cs" />
+    <Compile Include="Helpers\Win32Uac.cs" />
+    <Compile Include="Method.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SCSSdkClient\AuxLevel.cs" />
+    <Compile Include="SCSSdkClient\Extension.cs" />
+    <Compile Include="SCSSdkClient\JobMarket.cs" />
+    <Compile Include="SCSSdkClient\Object\SCSTelemetry.cs" />
+    <Compile Include="SCSSdkClient\Offence.cs" />
+    <Compile Include="SCSSdkClient\SCSGame.cs" />
+    <Compile Include="SCSSdkClient\SCSSdkConvert.cs" />
+    <Compile Include="SCSSdkClient\SCSSdkTelemetry.cs" />
+    <Compile Include="SCSSdkClient\SharedMemory.cs" />
+    <Compile Include="SCSSdkClient\ShifterType.cs" />
+    <Compile Include="SCSSdkClient\TelemetryData.cs" />
+    <Compile Include="TB_Client\classes\EnDecrypt.cs" />
+    <Compile Include="TB_Client\classes\ETCarsAngularAcceleration.cs" />
+    <Compile Include="TB_Client\classes\ETCarsAngularVelocity.cs" />
+    <Compile Include="TB_Client\classes\ETCarsCabinAngularAcceleration.cs" />
+    <Compile Include="TB_Client\classes\ETCarsCabinAngularVelocity.cs" />
+    <Compile Include="TB_Client\classes\ETCarsCabiOffset.cs" />
+    <Compile Include="TB_Client\classes\ETCarsCoordinates.cs" />
+    <Compile Include="TB_Client\classes\ETCarsDamages.cs" />
+    <Compile Include="TB_Client\classes\ETCarsData.cs" />
+    <Compile Include="TB_Client\classes\ETCarsDataContainer.cs" />
+    <Compile Include="TB_Client\classes\ETCarsDataStatus.cs" />
+    <Compile Include="TB_Client\classes\ETCarsDLC.cs" />
+    <Compile Include="TB_Client\classes\ETCarsDLCList.cs" />
+    <Compile Include="TB_Client\classes\ETCarsFuel.cs" />
+    <Compile Include="TB_Client\classes\ETCarsGame.cs" />
+    <Compile Include="TB_Client\classes\ETCarsHeadPosition.cs" />
+    <Compile Include="TB_Client\classes\ETCarsHookPosition.cs" />
+    <Compile Include="TB_Client\classes\ETCarsJob.cs" />
+    <Compile Include="TB_Client\classes\ETCarsJobdata.cs" />
+    <Compile Include="TB_Client\classes\ETCarsLights.cs" />
+    <Compile Include="TB_Client\classes\ETCarsLinearAcceleration.cs" />
+    <Compile Include="TB_Client\classes\ETCarsLinearVelocity.cs" />
+    <Compile Include="TB_Client\classes\ETCarsNavigation.cs" />
+    <Compile Include="TB_Client\classes\ETCarsOffense.cs" />
+    <Compile Include="TB_Client\classes\ETCarsPlacement.cs" />
+    <Compile Include="TB_Client\classes\ETCarsPluginVersion.cs" />
+    <Compile Include="TB_Client\classes\ETCarsPosition.cs" />
+    <Compile Include="TB_Client\classes\ETCarsTelemetry.cs" />
+    <Compile Include="TB_Client\classes\ETCarsTrailer.cs" />
+    <Compile Include="TB_Client\classes\ETCarsTrailerPlacement.cs" />
+    <Compile Include="TB_Client\classes\ETCarsTruck.cs" />
+    <Compile Include="TB_Client\classes\ETCarsUser.cs" />
+    <Compile Include="TB_Client\classes\ETCarsWarnings.cs" />
+    <Compile Include="TB_Client\classes\ETCarsWheelInfo.cs" />
+    <Compile Include="TB_Client\classes\ETCarsWorldPlacement.cs" />
+    <Compile Include="TB_Client\classes\hash.cs" />
+    <Compile Include="TB_Client\classes\id_guid.cs" />
+    <Compile Include="TB_Client\classes\id_win.cs" />
+    <Compile Include="TB_Client\classes\Server.cs" />
+    <Compile Include="TB_Client\classes\stream_data.cs" />
+    <Compile Include="TB_Client\classes\WebClientEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="256x256.ico" />
+    <Content Include="90235012_1590047137813487_1406081578706141184_n.ico" />
+    <Content Include="euro_truck_simulator_2___icon_by_blagoicons_da107l6-fullview.ico" />
+    <None Include="Resources\90235012_1590047137813487_1406081578706141184_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

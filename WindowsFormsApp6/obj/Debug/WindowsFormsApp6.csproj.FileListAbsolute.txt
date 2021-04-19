@@ -1,0 +1,67 @@
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form4.resources
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dusha\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\dusha\Desktop\ETS2 Speed Recorder v2\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\dusha\Desktop\ETS2 Speed Recorder v2\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\dusha\Desktop\ETS2 Speed Recorder v2\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\dusha\Desktop\ETS2 Speed Recorder v2\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\dusha\Desktop\ETS2 Speed Recorder v2\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\dusha\Desktop\ETS2 Speed Recorder v2\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\dusha\Desktop\ETS2 Speed Recorder v2\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+C:\Users\dusha\Desktop\ETS2 Speed Recorder v2\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\dusha\Desktop\ETS2 Speed Recorder v2\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\dusha\Desktop\ETS2 Speed Recorder v2\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\dusha\Desktop\ETS2 Speed Recorder v2\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\dusha\Desktop\ETS2 Speed Recorder v2\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\dusha\Desktop\ETS2 Speed Recorder v2\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\dusha\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\dusha\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\dusha\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\dusha\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\dusha\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\dusha\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\dusha\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+C:\Users\dusha\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\dusha\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\dusha\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\dusha\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\dusha\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\dusha\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\dusha\OneDrive\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\dusha\OneDrive\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\dusha\OneDrive\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\dusha\OneDrive\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\dusha\OneDrive\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\dusha\OneDrive\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\dusha\OneDrive\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+C:\Users\dusha\OneDrive\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\dusha\OneDrive\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\dusha\OneDrive\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\dusha\OneDrive\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\dusha\OneDrive\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\dusha\OneDrive\Desktop\ETS2 Speed Recorder project\speed recorder project files\v2 speerd rec and editor\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\dusha\source\repos\ETS2 Speed Recorder\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\dusha\source\repos\ETS2 Speed Recorder\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\dusha\source\repos\ETS2 Speed Recorder\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\dusha\source\repos\ETS2 Speed Recorder\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\dusha\source\repos\ETS2 Speed Recorder\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\dusha\source\repos\ETS2 Speed Recorder\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\dusha\source\repos\ETS2 Speed Recorder\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+C:\Users\dusha\source\repos\ETS2 Speed Recorder\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\dusha\source\repos\ETS2 Speed Recorder\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\dusha\source\repos\ETS2 Speed Recorder\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\dusha\source\repos\ETS2 Speed Recorder\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\dusha\source\repos\ETS2 Speed Recorder\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\dusha\source\repos\ETS2 Speed Recorder\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
